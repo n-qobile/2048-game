@@ -1,5 +1,7 @@
 Building a 2048 game. The objective of the game is to combine tiles of the same number to eventually form the number 2048.
 
+Live demo: https://fluffy-bublanina-9f25ad.netlify.app/
+
 Homepage- you are randomly assigned 2 number blocks.
 ![2025-03-17 (22)](https://github.com/user-attachments/assets/4ec7a462-9ec1-401e-8165-893bf7d045d9)
 
