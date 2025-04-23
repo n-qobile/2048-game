@@ -1,3 +1,5 @@
+<h1>2048 Clone</h1>
+
 Building a 2048 game. The objective of the game is to combine tiles of the same number to eventually form the number 2048.
 
 Live demo: https://2-48-game.netlify.app/
